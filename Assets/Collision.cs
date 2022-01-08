@@ -8,9 +8,4 @@ public class Collision : MonoBehaviour
     {
         Debug.Log("Your boss won't be happy about that...");
     }
-
-    void OnTriggerEnter2D(Collider2D other) 
-    {
-        Debug.Log("Gotta go fast!");
-    }
 }
