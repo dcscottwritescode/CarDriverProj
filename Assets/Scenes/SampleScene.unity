@@ -215,6 +215,7 @@ GameObject:
   m_Component:
   - component: {fileID: 84678711}
   - component: {fileID: 84678710}
+  - component: {fileID: 84678712}
   m_Layer: 0
   m_Name: House 2
   m_TagString: Untagged
@@ -287,6 +288,32 @@ Transform:
   m_Father: {fileID: 1084867248}
   m_RootOrder: 30
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
+--- !u!61 &84678712
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 84678709}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 7.56, y: 9.96}
+    newSize: {x: 7.56, y: 9.96}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 7.56, y: 9.96}
+  m_EdgeRadius: 0
 --- !u!1 &135496149
 GameObject:
   m_ObjectHideFlags: 0
@@ -297,6 +324,7 @@ GameObject:
   m_Component:
   - component: {fileID: 135496151}
   - component: {fileID: 135496150}
+  - component: {fileID: 135496152}
   m_Layer: 0
   m_Name: Tree 1
   m_TagString: Untagged
@@ -369,6 +397,22 @@ Transform:
   m_Father: {fileID: 1084867248}
   m_RootOrder: 38
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &135496152
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 135496149}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 2.38
 --- !u!1 &260280983
 GameObject:
   m_ObjectHideFlags: 0
@@ -379,6 +423,7 @@ GameObject:
   m_Component:
   - component: {fileID: 260280985}
   - component: {fileID: 260280984}
+  - component: {fileID: 260280986}
   m_Layer: 0
   m_Name: Tree 4 (1)
   m_TagString: Untagged
@@ -451,6 +496,22 @@ Transform:
   m_Father: {fileID: 1084867248}
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -42.184}
+--- !u!58 &260280986
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 260280983}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 3.3600004
 --- !u!1 &285571336
 GameObject:
   m_ObjectHideFlags: 0
@@ -570,6 +631,7 @@ GameObject:
   m_Component:
   - component: {fileID: 311929113}
   - component: {fileID: 311929112}
+  - component: {fileID: 311929114}
   m_Layer: 0
   m_Name: Tree 4 (18)
   m_TagString: Untagged
@@ -642,6 +704,22 @@ Transform:
   m_Father: {fileID: 1084867248}
   m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -24.803}
+--- !u!58 &311929114
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 311929111}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 3.36
 --- !u!1 &318659891
 GameObject:
   m_ObjectHideFlags: 0
@@ -774,6 +852,7 @@ GameObject:
   m_Component:
   - component: {fileID: 324820505}
   - component: {fileID: 324820504}
+  - component: {fileID: 324820506}
   m_Layer: 0
   m_Name: Tree 4 (4)
   m_TagString: Untagged
@@ -846,6 +925,22 @@ Transform:
   m_Father: {fileID: 1084867248}
   m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &324820506
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 324820503}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 3.36
 --- !u!1 &330593091
 GameObject:
   m_ObjectHideFlags: 0
@@ -938,6 +1033,7 @@ GameObject:
   m_Component:
   - component: {fileID: 342564048}
   - component: {fileID: 342564047}
+  - component: {fileID: 342564049}
   m_Layer: 0
   m_Name: Tree 2 (2)
   m_TagString: Untagged
@@ -1010,6 +1106,22 @@ Transform:
   m_Father: {fileID: 1084867248}
   m_RootOrder: 41
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90.557}
+--- !u!58 &342564049
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 342564046}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 2.6000001
 --- !u!1 &346597210
 GameObject:
   m_ObjectHideFlags: 0
@@ -1020,6 +1132,7 @@ GameObject:
   m_Component:
   - component: {fileID: 346597212}
   - component: {fileID: 346597211}
+  - component: {fileID: 346597213}
   m_Layer: 0
   m_Name: Tree 4
   m_TagString: Untagged
@@ -1092,6 +1205,22 @@ Transform:
   m_Father: {fileID: 1084867248}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -20.788}
+--- !u!58 &346597213
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 346597210}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 3.36
 --- !u!1 &449282094
 GameObject:
   m_ObjectHideFlags: 0
@@ -1594,6 +1723,7 @@ GameObject:
   m_Component:
   - component: {fileID: 757746617}
   - component: {fileID: 757746616}
+  - component: {fileID: 757746618}
   m_Layer: 0
   m_Name: Tree 4 (7)
   m_TagString: Untagged
@@ -1666,6 +1796,22 @@ Transform:
   m_Father: {fileID: 1084867248}
   m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -45.826}
+--- !u!58 &757746618
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 757746615}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 3.3599994
 --- !u!1 &758604534
 GameObject:
   m_ObjectHideFlags: 0
@@ -1949,6 +2095,7 @@ GameObject:
   m_Component:
   - component: {fileID: 909231100}
   - component: {fileID: 909231099}
+  - component: {fileID: 909231101}
   m_Layer: 0
   m_Name: Tree 2
   m_TagString: Untagged
@@ -2021,6 +2168,22 @@ Transform:
   m_Father: {fileID: 1084867248}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90.557}
+--- !u!58 &909231101
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 909231098}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 2.6000001
 --- !u!1 &945832099
 GameObject:
   m_ObjectHideFlags: 0
@@ -2031,6 +2194,7 @@ GameObject:
   m_Component:
   - component: {fileID: 945832101}
   - component: {fileID: 945832100}
+  - component: {fileID: 945832102}
   m_Layer: 0
   m_Name: Tree 1 (1)
   m_TagString: Untagged
@@ -2103,6 +2267,22 @@ Transform:
   m_Father: {fileID: 1084867248}
   m_RootOrder: 39
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -61.5}
+--- !u!58 &945832102
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 945832099}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 2.38
 --- !u!1 &959101033
 GameObject:
   m_ObjectHideFlags: 0
@@ -2113,6 +2293,7 @@ GameObject:
   m_Component:
   - component: {fileID: 959101035}
   - component: {fileID: 959101034}
+  - component: {fileID: 959101036}
   m_Layer: 0
   m_Name: Tree 4 (6)
   m_TagString: Untagged
@@ -2185,6 +2366,22 @@ Transform:
   m_Father: {fileID: 1084867248}
   m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -95.455}
+--- !u!58 &959101036
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 959101033}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 3.3600004
 --- !u!1 &972990816
 GameObject:
   m_ObjectHideFlags: 0
@@ -2304,6 +2501,7 @@ GameObject:
   m_Component:
   - component: {fileID: 985317013}
   - component: {fileID: 985317012}
+  - component: {fileID: 985317014}
   m_Layer: 0
   m_Name: Tree 2 (1)
   m_TagString: Untagged
@@ -2376,6 +2574,22 @@ Transform:
   m_Father: {fileID: 1084867248}
   m_RootOrder: 40
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -59.974}
+--- !u!58 &985317014
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 985317011}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 2.6
 --- !u!1 &996499039
 GameObject:
   m_ObjectHideFlags: 0
@@ -2731,6 +2945,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1193083251}
   - component: {fileID: 1193083250}
+  - component: {fileID: 1193083252}
   m_Layer: 0
   m_Name: Tree 4 (10)
   m_TagString: Untagged
@@ -2803,6 +3018,22 @@ Transform:
   m_Father: {fileID: 1084867248}
   m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1193083252
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1193083249}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 3.36
 --- !u!1 &1250815943
 GameObject:
   m_ObjectHideFlags: 0
@@ -2813,6 +3044,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1250815945}
   - component: {fileID: 1250815944}
+  - component: {fileID: 1250815946}
   m_Layer: 0
   m_Name: Tree 4 (14)
   m_TagString: Untagged
@@ -2885,6 +3117,22 @@ Transform:
   m_Father: {fileID: 1084867248}
   m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1250815946
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1250815943}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 3.36
 --- !u!1 &1265166616
 GameObject:
   m_ObjectHideFlags: 0
@@ -2977,6 +3225,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1267922167}
   - component: {fileID: 1267922166}
+  - component: {fileID: 1267922168}
   m_Layer: 0
   m_Name: Tree 4 (2)
   m_TagString: Untagged
@@ -3049,6 +3298,22 @@ Transform:
   m_Father: {fileID: 1084867248}
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -20.559}
+--- !u!58 &1267922168
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1267922165}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 3.36
 --- !u!1 &1367226374
 GameObject:
   m_ObjectHideFlags: 0
@@ -3327,6 +3592,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1454649142}
   - component: {fileID: 1454649141}
+  - component: {fileID: 1454649143}
   m_Layer: 0
   m_Name: Tree 4 (17)
   m_TagString: Untagged
@@ -3399,6 +3665,22 @@ Transform:
   m_Father: {fileID: 1084867248}
   m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -140.716}
+--- !u!58 &1454649143
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1454649140}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 3.360001
 --- !u!1 &1566631238
 GameObject:
   m_ObjectHideFlags: 0
@@ -3600,6 +3882,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1669009223}
   - component: {fileID: 1669009222}
+  - component: {fileID: 1669009224}
   m_Layer: 0
   m_Name: Tree 4 (15)
   m_TagString: Untagged
@@ -3672,6 +3955,22 @@ Transform:
   m_Father: {fileID: 1084867248}
   m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -85.892}
+--- !u!58 &1669009224
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1669009221}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 3.3600004
 --- !u!1 &1722302186
 GameObject:
   m_ObjectHideFlags: 0
@@ -4014,6 +4313,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1871908842}
   - component: {fileID: 1871908841}
+  - component: {fileID: 1871908843}
   m_Layer: 0
   m_Name: Tree 4 (13)
   m_TagString: Untagged
@@ -4086,6 +4386,22 @@ Transform:
   m_Father: {fileID: 1084867248}
   m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1871908843
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1871908840}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 3.36
 --- !u!1 &1886376598
 GameObject:
   m_ObjectHideFlags: 0
@@ -4096,6 +4412,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1886376600}
   - component: {fileID: 1886376599}
+  - component: {fileID: 1886376601}
   m_Layer: 0
   m_Name: Tree 4 (3)
   m_TagString: Untagged
@@ -4168,6 +4485,22 @@ Transform:
   m_Father: {fileID: 1084867248}
   m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1886376601
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1886376598}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 3.36
 --- !u!1 &1889627673
 GameObject:
   m_ObjectHideFlags: 0
@@ -4178,6 +4511,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1889627675}
   - component: {fileID: 1889627674}
+  - component: {fileID: 1889627676}
   m_Layer: 0
   m_Name: Tree 4 (16)
   m_TagString: Untagged
@@ -4250,6 +4584,22 @@ Transform:
   m_Father: {fileID: 1084867248}
   m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 26.49}
+--- !u!58 &1889627676
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1889627673}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 3.36
 --- !u!1 &2118733422
 GameObject:
   m_ObjectHideFlags: 0
