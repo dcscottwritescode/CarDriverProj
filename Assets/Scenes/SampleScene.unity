@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 7730093}
   m_Layer: 0
   m_Name: House 1 (5)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -245,7 +245,7 @@ GameObject:
   - component: {fileID: 58497631}
   m_Layer: 0
   m_Name: trafficstopasset
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -354,7 +354,7 @@ GameObject:
   - component: {fileID: 61803950}
   m_Layer: 0
   m_Name: House 3 (5)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -545,7 +545,7 @@ GameObject:
   - component: {fileID: 96721539}
   m_Layer: 0
   m_Name: House 3 (6)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -818,7 +818,7 @@ GameObject:
   - component: {fileID: 122862498}
   m_Layer: 0
   m_Name: Rocks 1 (3)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -917,7 +917,7 @@ GameObject:
   - component: {fileID: 135496152}
   m_Layer: 0
   m_Name: Tree 1
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1016,7 +1016,7 @@ GameObject:
   - component: {fileID: 157961548}
   m_Layer: 0
   m_Name: House 2 (1)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1207,7 +1207,7 @@ GameObject:
   - component: {fileID: 172796737}
   m_Layer: 0
   m_Name: House 1 (6)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1315,7 +1315,7 @@ GameObject:
   - component: {fileID: 218855357}
   m_Layer: 0
   m_Name: Road 4
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1398,7 +1398,7 @@ GameObject:
   - component: {fileID: 252978814}
   m_Layer: 0
   m_Name: House 2 (4)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1507,7 +1507,7 @@ GameObject:
   - component: {fileID: 260280986}
   m_Layer: 0
   m_Name: Tree 4 (1)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1606,7 +1606,7 @@ GameObject:
   - component: {fileID: 285571337}
   m_Layer: 0
   m_Name: trafficstopasset (4)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1833,7 +1833,7 @@ GameObject:
   - component: {fileID: 311929114}
   m_Layer: 0
   m_Name: Tree 4 (18)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2041,7 +2041,7 @@ GameObject:
   - component: {fileID: 324820506}
   m_Layer: 0
   m_Name: Tree 4 (4)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2222,7 +2222,7 @@ GameObject:
   - component: {fileID: 342564049}
   m_Layer: 0
   m_Name: Tree 2 (2)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2321,7 +2321,7 @@ GameObject:
   - component: {fileID: 346597213}
   m_Layer: 0
   m_Name: Tree 4
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2775,7 +2775,7 @@ GameObject:
   - component: {fileID: 449282095}
   m_Layer: 0
   m_Name: trafficstopasset
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2981,7 +2981,7 @@ GameObject:
   - component: {fileID: 521480652}
   m_Layer: 0
   m_Name: trafficstopasset (1)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3172,7 +3172,7 @@ GameObject:
   - component: {fileID: 590192349}
   m_Layer: 0
   m_Name: House 1 (2)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3800,7 +3800,7 @@ GameObject:
   - component: {fileID: 701479204}
   m_Layer: 0
   m_Name: House 1
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3909,7 +3909,7 @@ GameObject:
   - component: {fileID: 757746618}
   m_Layer: 0
   m_Name: Tree 4 (7)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4008,7 +4008,7 @@ GameObject:
   - component: {fileID: 758604535}
   m_Layer: 0
   m_Name: trafficstopasset (3)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4117,7 +4117,7 @@ GameObject:
   - component: {fileID: 790262874}
   m_Layer: 0
   m_Name: House 3 (2)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4226,7 +4226,7 @@ GameObject:
   - component: {fileID: 793107091}
   m_Layer: 0
   m_Name: Rocks 1 (5)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4571,7 +4571,7 @@ GameObject:
   - component: {fileID: 827874744}
   m_Layer: 0
   m_Name: Tree 3
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4670,7 +4670,7 @@ GameObject:
   - component: {fileID: 834895083}
   m_Layer: 0
   m_Name: trafficstopasset (6)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4779,7 +4779,7 @@ GameObject:
   - component: {fileID: 838344199}
   m_Layer: 0
   m_Name: Tree 2 (1)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4960,7 +4960,7 @@ GameObject:
   - component: {fileID: 863433913}
   m_Layer: 0
   m_Name: Rocks 1 (4)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5059,7 +5059,7 @@ GameObject:
   - component: {fileID: 909231101}
   m_Layer: 0
   m_Name: Tree 2
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5339,7 +5339,7 @@ GameObject:
   - component: {fileID: 945832102}
   m_Layer: 0
   m_Name: Tree 1 (1)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5438,7 +5438,7 @@ GameObject:
   - component: {fileID: 959101036}
   m_Layer: 0
   m_Name: Tree 4 (6)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5537,7 +5537,7 @@ GameObject:
   - component: {fileID: 972990819}
   m_Layer: 0
   m_Name: House 3
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5646,7 +5646,7 @@ GameObject:
   - component: {fileID: 973941385}
   m_Layer: 0
   m_Name: Tree 2
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5745,7 +5745,7 @@ GameObject:
   - component: {fileID: 985317014}
   m_Layer: 0
   m_Name: Tree 2 (1)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5844,7 +5844,7 @@ GameObject:
   - component: {fileID: 996499040}
   m_Layer: 0
   m_Name: trafficstopasset (2)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6117,7 +6117,7 @@ GameObject:
   - component: {fileID: 1076719393}
   m_Layer: 0
   m_Name: House 1 (3)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6455,7 +6455,7 @@ GameObject:
   - component: {fileID: 1097068947}
   m_Layer: 0
   m_Name: Tree 1 (2)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6636,7 +6636,7 @@ GameObject:
   - component: {fileID: 1122364325}
   m_Layer: 0
   m_Name: Rocks 1 (2)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7145,7 +7145,7 @@ GameObject:
   - component: {fileID: 1168800324}
   m_Layer: 0
   m_Name: Rocks 1 (1)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7244,7 +7244,7 @@ GameObject:
   - component: {fileID: 1193083252}
   m_Layer: 0
   m_Name: Tree 4 (10)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7507,7 +7507,7 @@ GameObject:
   - component: {fileID: 1250815946}
   m_Layer: 0
   m_Name: Tree 4 (14)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7688,7 +7688,7 @@ GameObject:
   - component: {fileID: 1260656486}
   m_Layer: 0
   m_Name: trafficstopasset (7)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7797,7 +7797,7 @@ GameObject:
   - component: {fileID: 1267922168}
   m_Layer: 0
   m_Name: Tree 4 (2)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8090,7 +8090,7 @@ GameObject:
   - component: {fileID: 1367226380}
   m_Layer: 0
   m_Name: Pizza Man
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8108,9 +8108,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   steerSpeed: 275
-  moveSpeed: 13
-  crashSpeed: 0.01
-  boostSpeed: 0.01
+  moveSpeed: 14
+  crashSpeed: 7
+  boostSpeed: 21
 --- !u!212 &1367226376
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8170,7 +8170,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1367226374}
   m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
-  m_LocalPosition: {x: 18.1, y: -86.9, z: 0}
+  m_LocalPosition: {x: 0, y: 7, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -8255,7 +8255,7 @@ GameObject:
   - component: {fileID: 1413210293}
   m_Layer: 0
   m_Name: House 3 (1)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8473,7 +8473,7 @@ GameObject:
   - component: {fileID: 1437958739}
   m_Layer: 0
   m_Name: House 1 (4)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8582,7 +8582,7 @@ GameObject:
   - component: {fileID: 1454649143}
   m_Layer: 0
   m_Name: Tree 4 (17)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8763,7 +8763,7 @@ GameObject:
   - component: {fileID: 1566631240}
   m_Layer: 0
   m_Name: House 1 (1)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9227,7 +9227,7 @@ GameObject:
   - component: {fileID: 1669009224}
   m_Layer: 0
   m_Name: Tree 4 (15)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9326,7 +9326,7 @@ GameObject:
   - component: {fileID: 1686277763}
   m_Layer: 0
   m_Name: Tree 1 (3)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9507,7 +9507,7 @@ GameObject:
   - component: {fileID: 1722302187}
   m_Layer: 0
   m_Name: Bridge
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9718,7 +9718,7 @@ GameObject:
   - component: {fileID: 1752618162}
   m_Layer: 0
   m_Name: Tree 1 (1)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9817,7 +9817,7 @@ GameObject:
   - component: {fileID: 1760847916}
   m_Layer: 0
   m_Name: trafficstopasset (1)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9926,7 +9926,7 @@ GameObject:
   - component: {fileID: 1768485475}
   m_Layer: 0
   m_Name: trafficstopasset (8)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10117,7 +10117,7 @@ GameObject:
   - component: {fileID: 1788215158}
   m_Layer: 0
   m_Name: House 2 (3)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10700,7 +10700,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: -0.005159974, y: -0.13137934}
@@ -10729,7 +10729,7 @@ GameObject:
   - component: {fileID: 1865360086}
   m_Layer: 0
   m_Name: trafficstopasset (5)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10838,7 +10838,7 @@ GameObject:
   - component: {fileID: 1871908843}
   m_Layer: 0
   m_Name: Tree 4 (13)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10937,7 +10937,7 @@ GameObject:
   - component: {fileID: 1886376601}
   m_Layer: 0
   m_Name: Tree 4 (3)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11118,7 +11118,7 @@ GameObject:
   - component: {fileID: 1889627676}
   m_Layer: 0
   m_Name: Tree 4 (16)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11217,7 +11217,7 @@ GameObject:
   - component: {fileID: 1900880513}
   m_Layer: 0
   m_Name: parkfountain
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11562,7 +11562,7 @@ GameObject:
   - component: {fileID: 1995613639}
   m_Layer: 0
   m_Name: House 3 (3)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11780,7 +11780,7 @@ GameObject:
   - component: {fileID: 2021451202}
   m_Layer: 0
   m_Name: Tree 1 (2)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11879,7 +11879,7 @@ GameObject:
   - component: {fileID: 2024446034}
   m_Layer: 0
   m_Name: House 3 (7)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12070,7 +12070,7 @@ GameObject:
   - component: {fileID: 2068572078}
   m_Layer: 0
   m_Name: House 2 (2)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12179,7 +12179,7 @@ GameObject:
   - component: {fileID: 2073269550}
   m_Layer: 0
   m_Name: Tree 1
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12360,7 +12360,7 @@ GameObject:
   - component: {fileID: 2101113189}
   m_Layer: 0
   m_Name: Rocks 1
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12493,7 +12493,7 @@ GameObject:
   - component: {fileID: 2112153549}
   m_Layer: 0
   m_Name: House 3 (4)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12602,7 +12602,7 @@ GameObject:
   - component: {fileID: 2113985923}
   m_Layer: 0
   m_Name: Tree 2 (2)
-  m_TagString: Untagged
+  m_TagString: CollisionPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

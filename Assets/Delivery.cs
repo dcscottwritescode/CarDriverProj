@@ -17,11 +17,6 @@ public class Delivery : MonoBehaviour
         spriteRenderer = GetComponent<SpriteRenderer>();    
     }
 
-    void OnCollisionEnter2D(Collision2D other) 
-    {
-        Debug.Log("Your boss won't be happy about that...");
-    }
-
     void OnTriggerEnter2D(Collider2D other) 
     {
         if (other.tag == "Package" && !hasPackage)
@@ -37,11 +32,6 @@ public class Delivery : MonoBehaviour
             Debug.Log("You have succesfully delivered the package! Pick up the next one.");
             hasPackage = false;
             spriteRenderer.color = packageNotPickedUp;
-        }
-
-        if (other.tag == "Boost")
-        {
-            Debug.Log("Gotta go fast!");
         }
     }
 
