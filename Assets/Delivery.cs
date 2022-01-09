@@ -32,7 +32,6 @@ public class Delivery : MonoBehaviour
             Destroy(other.gameObject, destroyDelay); 
         }
 
-
         if (other.tag == "Customer" && hasPackage)
         {
             Debug.Log("You have succesfully delivered the package! Pick up the next one.");
@@ -40,5 +39,17 @@ public class Delivery : MonoBehaviour
             spriteRenderer.color = packageNotPickedUp;
         }
 
+        if (other.tag == "Boost")
+        {
+            Debug.Log("Gotta go fast!");
+        }
+    }
+
+    void OnTriggerExit2D(Collider2D other) 
+    {
+        if (other.tag == "Package" && hasPackage == true)
+        {
+            Debug.Log("Already have a package to deliver...");
+        }   
     }    
 }
